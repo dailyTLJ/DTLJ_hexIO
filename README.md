@@ -13,3 +13,15 @@ v1 has SOIC packages for the two chips, and through-hole packages for all other 
 <p align="center">
 	<img src="https://raw.github.com/dailyTLJ/DTLJ_hexIO/master/dtlj_hexIO.png"/>
 </p>
+
+What it looks like assembled
+
+<p align="center">
+	<img src="https://raw.github.com/dailyTLJ/DTLJ_hexIO/master/assembled.jpg"/>
+</p>
+
+
+## Things to change in next iteration
+
+* indicator of LED polarity (on power LED, and sensor-module LEDs)
+* analog output pin hole too big
